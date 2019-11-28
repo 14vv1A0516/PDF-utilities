@@ -3,6 +3,7 @@ These are PDF utilities to Assign password to a PDF, Change password of a PDF(ch
 These are implemeted in Python3.
 
 You need to install following libraries in Python 3
+
 PyPDF2, easygui, tkinter
 
 After successful installation of all the above libraries , we can run these applications. To make it as an app, we can create an executable using pyinstaller.
