@@ -13,3 +13,4 @@ After successful installation of all the above libraries , we can run these appl
 
 To create an exe , see commands of pyinstaller.
 
+Any errors or changes , please reach me on varma0516@gmail.com
