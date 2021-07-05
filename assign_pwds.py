@@ -4,7 +4,7 @@ import easygui,os
 from PyPDF2 import PdfFileReader, PdfFileWriter
 from tkinter import messagebox
 import tkinter as tk
-ifile=""
+ifile = ""
 
 def select_PDF():
  global ifile
